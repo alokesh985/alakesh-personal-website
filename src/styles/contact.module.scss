@@ -2,6 +2,7 @@
     a {
         text-decoration: none;
     }
+    margin: 30px 0px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -12,6 +13,12 @@
         font-style: italic;
     }
     .contacts {
+        .emailSection {
+            margin: 10px 0px;
+        }
+        .phoneNumber {
+            margin: 10px 0px;
+        }
         display: flex;
         flex-direction: column;
     }

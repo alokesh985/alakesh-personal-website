@@ -18,10 +18,15 @@ const Introduction = () => {
         </p>
         <p>
           {" "}
-          My front-end stack includes React.js with Typescript, Redux, and
-          vanilla CSS along with CSS pre-processors like SASS.{" "}
+          On the front-end, I have experience working with React.js, Typescript,
+          Redux, and vanilla CSS along with CSS pre-processors like SASS.{" "}
         </p>{" "}
-        <p> My back-end stack includes Node.js, SQL, and Firebase. </p>{" "}
+        <p>
+          {" "}
+          On the back-end, I have experience working with Node.js, SQL, and
+          Firebase.{" "}
+        </p>{" "}
+        <p>I've worked using React Native for mobile development.</p>
         <p>
           I'm also highly skilled in Data Structures and Algorithms, modern
           Javascript, and Python.

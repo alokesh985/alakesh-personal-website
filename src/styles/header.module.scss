@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 40px;
+    .nameContainer {
+    .name {
+        font-size: 60px;
+        font-weight: 700;
+    }
+}
+    .linksContainer {
+        display: flex;
+        flex-direction: row;
+    }
+    .socialMediaIcon {
+        width: 50px;
+        height: 47px;
+        margin: 0px 20px;
+        &:hover {
+            transform: scale(1.3);
+        }
+    }
+}

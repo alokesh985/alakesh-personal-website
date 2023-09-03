@@ -3,7 +3,7 @@ export const profileURLs = {
   linkedIn: "https://www.linkedin.com/in/alakeshbora",
   leetcode: "https://leetcode.com/alokesh985",
   hackerRank: "https://www.hackerrank.com/profile/alokesh985",
-  resumeLink: "https://drive.google.com/file/d/1jVP3MLCRaMZnzccZp7nRob7Zbo6jrlIj/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1Hta2_Y_1VRcEupQtyNKXOs3bbiF3-w8o/view?usp=sharing"
 };
 
 export const imageLocations = {

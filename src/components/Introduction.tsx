@@ -11,26 +11,19 @@ const Introduction = () => {
       />
       <div className={styles.text}>
         <p>Hi there! My name is Alakesh Bora.</p>{" "}
-        <p>I am currently working as a Software Engineer at Tekion Corp.</p>
+        <p>I am currently working as an SDE-2 at Tekion Corp.</p>
         <p>
-          Although I enjoy working on the front-end more, I am equally skilled
-          in working on the back-end.{" "}
+          I have over 2 years of experience working with Javascript and React.
         </p>
         <p>
-          {" "}
-          On the front-end, I have experience working with React.js, Typescript,
-          Redux, and vanilla CSS along with CSS pre-processors like SASS.{" "}
+          My frontend skills include advanced modern Javascript, deep knowledge of React, SCSS, and Webpack.
         </p>{" "}
         <p>
           {" "}
-          On the back-end, I have experience working with Node.js, SQL, and
-          Firebase.{" "}
+          On the back-end, I have experience working with node.js, GraphQL, and MongoDB.
         </p>{" "}
-        <p>I've worked using React Native for mobile development.</p>
-        <p>
-          I'm also highly skilled in Data Structures and Algorithms, modern
-          Javascript, and Python.
-        </p>
+        <p>I've also previously worked using React Native for mobile development.</p>
+        <p>You'll find my personal projects in my resume, or on my github!</p>
       </div>
       <div className={styles.resumeSection}>
         <p>

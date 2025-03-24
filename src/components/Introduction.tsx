@@ -11,16 +11,16 @@ const Introduction = () => {
       />
       <div className={styles.text}>
         <p>Hi there! My name is Alakesh Bora.</p>{" "}
-        <p>I am currently working as an SDE-2 at Tekion Corp.</p>
+        <p>I am currently working as an SDE-2 at Intuit.</p>
         <p>
-          I have over 2 years of experience working with Javascript and React.
+          I have over 4 years of experience working with Javascript and React.
         </p>
         <p>
           My frontend skills include advanced modern Javascript, deep knowledge of React, SCSS, and Webpack.
         </p>{" "}
         <p>
           {" "}
-          On the back-end, I have experience working with node.js, GraphQL, and MongoDB.
+          On the back-end, I have experience working with Java, Spring, node.js, GraphQL, and MongoDB.
         </p>{" "}
         <p>I've also previously worked using React Native for mobile development.</p>
         <p>You'll find my personal projects in my resume, or on my github!</p>

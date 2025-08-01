@@ -11,8 +11,11 @@
     }
     .text {
         text-align: center;
-        font-size: 135%;
+        font-size: 1.4rem;
         width: 75%;
+        .highlightedText {
+            font-size: 1.5rem;
+        }
     }
     .resumeSection {
         font-size: 30px;
